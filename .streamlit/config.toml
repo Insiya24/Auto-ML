@@ -1,0 +1,8 @@
+[theme]
+base = "light"
+
+primaryColor = "#4f46e5"              # Indigo/Purple
+backgroundColor = "#0b1120"           # Navy Blue (Dark background)
+secondaryBackgroundColor = "#1e293b"  # Deep Blue-Gray for panels
+textColor = "#ffffff"                 # White text
+font = "sans serif"
